@@ -7,6 +7,7 @@ OK  that is a good idea!
 let's test branch ~dev
 
 Creating  a new branch is quick and simple
-
-
+ 
+bug killer!~ 
+ 
 --no-ff 
