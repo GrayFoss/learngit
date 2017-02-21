@@ -5,3 +5,4 @@ Git tracks changes.+++++++++
 OK  that is a good idea!
 
 let's test branch ~dev
+Creating  a new branch is quick&simple
